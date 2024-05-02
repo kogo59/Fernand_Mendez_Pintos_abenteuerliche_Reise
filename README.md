@@ -1,6 +1,6 @@
 #  Fernand Mendez Pinto's abenteuerliche Reise durch China, die Tartarei, Siam, Pegu und andere Länder des östlichen Asiens.
 
-<img align="right" height="150" src="https://github.com/kogo59/Das_offene_Polar-Meer/blob/main/images/cover.jpg">
+<img align="right" height="150" src="https://github.com/kogo59/Fernand_Mendez_Pintos_abenteuerliche_Reise/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "Fernand Mendez Pinto's abenteuerliche Reise durch China, die Tartarei, Siam, Pegu und andere Länder des östlichen Asiens.".
 
