@@ -1,4 +1,4 @@
-# <small>Erstes Kapitel</small><br />Was mir während meiner Jugend im Vaterlande widerfuhr, bis ich mich nach Indien einschiffte.{#eins .unnumbered}
+# <small>Erstes Kapitel.</small><br />Was mir während meiner Jugend im Vaterlande widerfuhr, bis ich mich nach Indien einschiffte.{#eins .unnumbered}
 
 ::: justified
 
