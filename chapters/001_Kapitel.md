@@ -104,5 +104,4 @@ meine Zukunft, mochte sie nun gut oder schlimm ausfallen, dem Schicksale zu
 ::::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
