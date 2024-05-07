@@ -1,4 +1,4 @@
-# <small>Dreizehntes Kapitel.</small><br />Was von dieser Zeit bis zur Abfahrt Pero's de Faria nach Malacca geschah.{#drreizehn .unnumbered}
+# <small>Dreizehntes Kapitel.</small><br />Was von dieser Zeit bis zur Abfahrt Pero's de Faria nach Malacca geschah.{#dreizehn .unnumbered}
 
 ::: justified
 
@@ -61,6 +61,7 @@ solchen Bündnisses für die Portugiesen und für den Schutz der ihm anvertraute
 Festung, sowie für den bereits lebhaften Handel der Portugiesen in diesen
 südlichen Gegenden und für seinen eigenen Vortheil zu erkennen, und beschloß
 nach seiner Ueberzeugung zu handeln.
+
 
 :::
 
