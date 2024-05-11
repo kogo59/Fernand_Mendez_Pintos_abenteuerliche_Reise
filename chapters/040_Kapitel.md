@@ -2,7 +2,6 @@
 
 ::: justified
 
-
 Nachdem wir den Fluß Pullo Cambim wieder verlassen hatten, segelten wir in
 nördlicher Richtung an der Küste des Königreiches Schampa hin bis zu dem
 siebenzehn Meilen entfernten Hafen Saleyjacau. Da hier nichts zu gewinnen war,
