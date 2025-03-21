@@ -91,11 +91,5 @@ an, daß ihnen Niemand widerstehen kann.^[^0014]^
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0014]: [Man erkennt in den in diesem Kapitel beschriebenen Thieren trotz mancherlei Uebertreibungen das Krokodil, den Kasuar und die Boaschlange.]{.footnote}
 

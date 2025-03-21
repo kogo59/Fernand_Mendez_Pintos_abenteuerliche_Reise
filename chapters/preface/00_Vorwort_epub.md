@@ -171,5 +171,3 @@ Anziehungskraft desselben bewähren.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-

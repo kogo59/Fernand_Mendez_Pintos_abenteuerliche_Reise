@@ -65,10 +65,5 @@ nach seiner Ueberzeugung zu handeln.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0013]: [Benennungen verschiedener Arten von Seefahrzeugen auf Sumatra.]{.footnote}

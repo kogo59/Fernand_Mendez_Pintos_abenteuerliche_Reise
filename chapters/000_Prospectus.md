@@ -106,7 +106,6 @@ Druck von G. Pätz in Naumburg a. d. S
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 Beschmutzte oben oder an den Seiten aufgeschnittene Exemplare oder solche,
 welche die geringsten Spuren des Lesens tragen, werden durchaus nicht

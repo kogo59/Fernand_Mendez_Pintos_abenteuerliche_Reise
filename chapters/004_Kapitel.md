@@ -105,12 +105,7 @@ erzählen werden.
 
 :::
 
-:::: align-center
-****
-::::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0041]: [Wie damals gewöhnlich der Kaiser von Habesch genannt wurde.]{.footnote}
 
